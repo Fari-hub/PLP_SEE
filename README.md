@@ -24,4 +24,3 @@ This is a beginner-friendly command-line calculator written in Python. It allows
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Fari-hub/calculator.git
